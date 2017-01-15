@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/bluelovers/node-runtime-platform/issues"
   },
-  "homepage": "https://github.com/bluelovers/node-runtime-platform#readme"
+  "homepage": "https://github.com/bluelovers/node-runtime-platform#readme",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "firefox",
+    "addon-sdk"
+  ]
 }
