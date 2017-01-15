@@ -1,0 +1,19 @@
+{
+  "name": "runtime-platform",
+  "version": "1.0.0",
+  "description": "ckeck script run in what JavaScript platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/node-runtime-platform.git"
+  },
+  "author": "bluelovers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluelovers/node-runtime-platform/issues"
+  },
+  "homepage": "https://github.com/bluelovers/node-runtime-platform#readme"
+}
